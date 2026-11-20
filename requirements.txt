@@ -1,0 +1,10 @@
+#pip install -r requirements.txt
+#langchain
+#langchain-google-genai
+#dotenv
+#langchain-openai
+#streamlit
+#langchain-groq
+#langchain-ollama
+#langchain-community
+#langgraph
